@@ -13,3 +13,5 @@ def division(x, y):
     return x / y
 
 test_1 = add1(4, 5)
+
+print(test_1)
