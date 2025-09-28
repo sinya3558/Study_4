@@ -106,7 +106,7 @@
      ---
      위 규칙은 다음 레포지토리를 참고해서 제작하였습니다. </br>
      - 알고리즘 코딩 테스트 그룹 스터디 [알고리즘 및 코딩 테스트 문제 풀이 챌린지 100](https://github.com/ellynhan/challenge100-codingtest-study)
-     - 이전 스터디 자료 [stu-algorithm](https://github.com/sinya3558/STU_Algorithm-up-to-date)
+     - [STU-Algorithm](https://github.com/cjy8922/STU_Algorithm)
 
      </details>
 
