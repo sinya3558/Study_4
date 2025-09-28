@@ -9,4 +9,3 @@
 | |`Lv.0` |[최빈값 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120812)| | | | |✅|
 | |`Lv.0` |[문자열 정렬](https://school.programmers.co.kr/learn/courses/30/lessons/120850)| | |✅ || |
 | | | | | | | | |
-
