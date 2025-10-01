@@ -33,8 +33,8 @@
 #### 25/10/01 ~ 25/10/16
 - [ ] 프로그래머스 파이썬 코드 풀이
  [📝 공통 문제 확인하러 가기](./problems.md)
-     
-     #### 🤔 안내 사항
+     <details>
+     <summary>🤔 안내 사항 </summary>
 
      ##### ✅ 파이썬 공통 문제 규칙 📌
      - 스터디원 모두가 푸는 것(혹은 고민해 보는 것)을 목적으로 하는 **공통 문제** 선정
@@ -107,7 +107,7 @@
      위 규칙은 다음 레포지토리를 참고해서 제작하였습니다. </br>
      - 알고리즘 코딩 테스트 그룹 스터디 [알고리즘 및 코딩 테스트 문제 풀이 챌린지 100](https://github.com/ellynhan/challenge100-codingtest-study)
      - [STU-Algorithm](https://github.com/cjy8922/STU_Algorithm)
-
+     
      </details>
 
 ---
@@ -116,16 +116,16 @@
 ## 📅스터디 참가자 <img src="imgs/image.png" alt="아이콘1" width="35" height="33" /> <img src="imgs/image1.png" alt="아이콘1" width="32" height="33" />
 <table><tr>
     <td align="center"><a href="https://github.com/pchaeyeon"><img src="https://avatars.githubusercontent.com/u/190123447?v=4" width="100px;" alt=""/>
-   <br /><sub><b>pchaeyeon</b><br><img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/7"/></sub></a><br /></td>
+   <br /><sub><b>pchaeyeon</b><br><img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/14"/></sub></a><br /></td>
 
    <td align="center"><a href="https://github.com/dabom10"><img src="https://avatars.githubusercontent.com/u/166046744?v=4" width="100px;" alt=""/>
-   <br /><sub><b>dabom10</b><br><img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/7"/></sub></a><br /></td>
+   <br /><sub><b>dabom10</b><br><img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/14"/></sub></a><br /></td>
 
    <td align="center"><a href="https://github.com/hannaLee09"><img src="https://avatars.githubusercontent.com/u/234184443?v=4" width="100px;" alt=""/>
-   <br /><sub><b>hannaLee09</b><br><img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/0"/></sub></a><br /></td>
+   <br /><sub><b>hannaLee09</b><br><img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/7"/></sub></a><br /></td>
 
    <td align="center"><a href="https://github.com/sinya3558"><img src="https://avatars.githubusercontent.com/u/70243358?v=4?s=100" width="100px;" alt=""/>
-   <br /><sub><b>sinya3558</b><br><img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/7"/></sub></a><br /></td>
+   <br /><sub><b>sinya3558</b><br><img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/14"/></sub></a><br /></td>
 
    <td align="center"><a href="https://github.com/seounga"><img src="https://avatars.githubusercontent.com/u/134727410?v=4" width="100px;" alt=""/>
    <br /><sub><b>seounga</b><br><img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/0"/></sub></a><br /></td>
