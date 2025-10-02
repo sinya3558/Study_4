@@ -1,4 +1,4 @@
-# 01_달리기경주.py
+# 02_달리기경주.py (https://school.programmers.co.kr/learn/courses/30/lessons/178871)
 
 def solution(players, callings):    # players: str list, callings : str list
     try:
