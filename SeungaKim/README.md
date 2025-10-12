@@ -17,6 +17,7 @@
   |**42840**|[모의고사](https://school.programmers.co.kr/learn/courses/30/lessons/42840)|Lv.1|`배열`|[04_모의고사](./[PYT]/04_모의고사.py)|00:42|✅|
   |**120812**|[최빈값구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120812)|Lv.0|`배열`|[05_최빈값구하기](./[PYT]/05_최빈값구하기.py)|00:54|✅|
   |**120850**|[문자열정렬](https://school.programmers.co.kr/learn/courses/30/lessons/120850)|Lv.0|`배열`,`문자열처리`|[06_문자열정렬](./[PYT]/06_문자열정렬.py)|00:37|✅|
+  |**1844**|[게임 맵 최단거리](https://school.programmers.co.kr/learn/courses/30/lessons/1844) |Lv.2 |`BFS`|[07_게임맵최단거리](./[PYT]/07_게임맵최단거리.py) |01:25|✅| 
 
   
 </details>
