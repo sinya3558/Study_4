@@ -18,6 +18,7 @@
   |**120812**|[최빈값구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120812)|Lv.0|`배열`|[05_최빈값구하기](./[PYT]/05_최빈값구하기.py)|00:54|✅|
   |**120850**|[문자열정렬](https://school.programmers.co.kr/learn/courses/30/lessons/120850)|Lv.0|`배열`,`문자열처리`|[06_문자열정렬](./[PYT]/06_문자열정렬.py)|00:37|✅|
   |**1844**|[게임 맵 최단거리](https://school.programmers.co.kr/learn/courses/30/lessons/1844) |Lv.2 |`BFS`|[07_게임맵최단거리](./[PYT]/07_게임맵최단거리.py) |01:25|✅| 
+  |**12906** | [같은 숫자는 싫어](https://school.programmers.co.kr/learn/courses/30/lessons/12906)| Lv.1|`스택/큐` |[08_같은숫자는싫어](./[PYT]/08_같은숫자는싫어.py) | 00:34|✅|
 
   
 </details>
