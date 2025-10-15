@@ -31,7 +31,7 @@
 📎 참고 자료: [Git 및 GitHub 튜토리얼 노션 페이지](https://www.notion.so/1-Git-27937748289c80a89ffbfa87250d3ee6?source=copy_link)
 
 #### 25/10/01 ~ 25/10/16
-- [ ] 프로그래머스 파이썬 코드 풀이
+- [x] 프로그래머스 파이썬 코드 풀이
  [📝 공통 문제 확인하러 가기](./problems.md)
      <details>
      <summary>🤔 안내 사항 </summary>
@@ -110,25 +110,29 @@
      
      </details>
 
+#### 25/10/16 ~ 25/10/31
+- [ ] ROS-2 Ubuntu
+
+
 ---
 
 
 ## 📅스터디 참가자 <img src="imgs/image.png" alt="아이콘1" width="35" height="33" /> <img src="imgs/image1.png" alt="아이콘1" width="32" height="33" />
 <table><tr>
     <td align="center"><a href="https://github.com/pchaeyeon"><img src="https://avatars.githubusercontent.com/u/190123447?v=4" width="100px;" alt=""/>
-   <br /><sub><b>pchaeyeon</b><br><img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/14"/></sub></a><br /></td>
+   <br /><sub><b>pchaeyeon</b><br><img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/21"/></sub></a><br /></td>
 
    <td align="center"><a href="https://github.com/dabom10"><img src="https://avatars.githubusercontent.com/u/166046744?v=4" width="100px;" alt=""/>
-   <br /><sub><b>dabom10</b><br><img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/14"/></sub></a><br /></td>
+   <br /><sub><b>dabom10</b><br><img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/21"/></sub></a><br /></td>
 
    <td align="center"><a href="https://github.com/hannaLee09"><img src="https://avatars.githubusercontent.com/u/234184443?v=4" width="100px;" alt=""/>
    <br /><sub><b>hannaLee09</b><br><img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/7"/></sub></a><br /></td>
 
    <td align="center"><a href="https://github.com/sinya3558"><img src="https://avatars.githubusercontent.com/u/70243358?v=4?s=100" width="100px;" alt=""/>
-   <br /><sub><b>sinya3558</b><br><img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/14"/></sub></a><br /></td>
+   <br /><sub><b>sinya3558</b><br><img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/21"/></sub></a><br /></td>
 
    <td align="center"><a href="https://github.com/seounga"><img src="https://avatars.githubusercontent.com/u/134727410?v=4" width="100px;" alt=""/>
-   <br /><sub><b>seounga</b><br><img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/0"/></sub></a><br /></td>
+   <br /><sub><b>seounga</b><br><img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/7"/></sub></a><br /></td>
 
 </tr></table>
 
