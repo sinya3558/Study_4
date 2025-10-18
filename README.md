@@ -1,8 +1,8 @@
 
-# 💯DOOSAN ROBOTICS | 1반 4조 스터디 👩‍💻 
+# DOOSAN ROBOTICS | 1반 4조 스터디 👩‍💻 
 
 
-### 🤝 스터디 운영 규칙
+### 운영 규칙
 
 ✅ 스터디는 **자율 참여**이며, **비대면 교육 기간** 동안 조원들끼리 진행  
 ✅ 주제는 조원들과 **자유롭게 협의**   
@@ -12,23 +12,19 @@
 
 ---
 
-### 🔍 스터디 주제
+### 스터디 주제
 
- ####  추천 주제
-- 수업 **복습 / 예습**
-- **미니 프로젝트** 진행
-- **알고리즘 문제 풀이** (LeetCode, 백준 등)
-- **기술 서적 / 논문 리뷰**
-- **머신러닝 경진대회 참여** (Kaggle, Dacon 등)
-- **자격증 및 시험 준비 스터디**
+1. **알고리즘 문제 풀이** (LeetCode, 백준 등)
+2. **ROS-2 환경 설치 및 설정**
+
 
 ---
 
-### 🎯스터디 진행 체크리스트
+### 스터디 진행 체크리스트
 
 #### 25/09/26
 - [x]  **Git 및 GitHub 사용법 스터디**  
-📎 참고 자료: [Git 및 GitHub 튜토리얼 노션 페이지](https://www.notion.so/1-Git-27937748289c80a89ffbfa87250d3ee6?source=copy_link)
+📎 참고 자료: [Git 및 GitHub 튜토리얼 노션 페이지](https://www.notion.so/1-Git-29037748289c80af9a89d772bf333e67?v=27937748289c80538766000c1a614603&source=copy_link)
 
 #### 25/10/01 ~ 25/10/16
 - [x] 프로그래머스 파이썬 코드 풀이
@@ -117,7 +113,7 @@
 ---
 
 
-## 📅스터디 참가자 <img src="imgs/image.png" alt="아이콘1" width="35" height="33" /> <img src="imgs/image1.png" alt="아이콘1" width="32" height="33" />
+## 스터디 참가자 <img src="imgs/image.png" alt="아이콘1" width="35" height="33" /> <img src="imgs/image1.png" alt="아이콘1" width="32" height="33" />
 <table><tr>
     <td align="center"><a href="https://github.com/pchaeyeon"><img src="https://avatars.githubusercontent.com/u/190123447?v=4" width="100px;" alt=""/>
    <br /><sub><b>pchaeyeon</b><br><img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/21"/></sub></a><br /></td>
