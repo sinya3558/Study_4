@@ -116,16 +116,16 @@
 ## 스터디 참가자 <img src="imgs/image.png" alt="아이콘1" width="35" height="33" /> <img src="imgs/image1.png" alt="아이콘1" width="32" height="33" />
 <table><tr>
     <td align="center"><a href="https://github.com/pchaeyeon"><img src="https://avatars.githubusercontent.com/u/190123447?v=4" width="100px;" alt=""/>
-   <br /><sub><b>pchaeyeon</b><br><img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/21"/></sub></a><br /></td>
+   <br /><sub><b>pchaeyeon</b><br><img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/28"/></sub></a><br /></td>
 
    <td align="center"><a href="https://github.com/dabom10"><img src="https://avatars.githubusercontent.com/u/166046744?v=4" width="100px;" alt=""/>
-   <br /><sub><b>dabom10</b><br><img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/21"/></sub></a><br /></td>
+   <br /><sub><b>dabom10</b><br><img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/28"/></sub></a><br /></td>
 
    <td align="center"><a href="https://github.com/hannaLee09"><img src="https://avatars.githubusercontent.com/u/234184443?v=4" width="100px;" alt=""/>
-   <br /><sub><b>hannaLee09</b><br><img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/7"/></sub></a><br /></td>
+   <br /><sub><b>hannaLee09</b><br><img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/14"/></sub></a><br /></td>
 
    <td align="center"><a href="https://github.com/sinya3558"><img src="https://avatars.githubusercontent.com/u/70243358?v=4?s=100" width="100px;" alt=""/>
-   <br /><sub><b>sinya3558</b><br><img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/21"/></sub></a><br /></td>
+   <br /><sub><b>sinya3558</b><br><img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/28"/></sub></a><br /></td>
 
    <td align="center"><a href="https://github.com/seounga"><img src="https://avatars.githubusercontent.com/u/134727410?v=4" width="100px;" alt=""/>
    <br /><sub><b>seounga</b><br><img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/7"/></sub></a><br /></td>
